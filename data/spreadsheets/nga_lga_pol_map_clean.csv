@@ -1,0 +1,794 @@
+STATE,LGA,SEN_DIST,FED_CONST,IS_SPLIT,LGA_CLEAN,LGA_MERGE
+Abia,Isiala Ngwa North,Abia Central,Isiala Ngwa North/Isiala Ngwa South,False,Isiala Ngwa North,Isiala Ngwa North
+Abia,Isiala Ngwa South,Abia Central,Isiala Ngwa North/Isiala Ngwa South,False,Isiala Ngwa South,Isiala Ngwa South
+Abia,Obingwa,Abia Central,Obingwa/Ugwunagbo/Osisioma,False,Obingwa,Obingwa
+Abia,Ugwunagbo,Abia Central,Obingwa/Ugwunagbo/Osisioma,False,Ugwunagbo,Ugwunagbo
+Abia,Osisioma,Abia Central,Obingwa/Ugwunagbo/Osisioma,False,Osisioma,Osisioma
+Abia,Umuahia North,Abia Central,Umuahia North/Umuahia South/Ikwuano,False,Umuahia North,Umuahia North
+Abia,Umuahia South,Abia Central,Umuahia North/Umuahia South/Ikwuano,False,Umuahia South,Umuahia South
+Abia,Ikwuano,Abia Central,Umuahia North/Umuahia South/Ikwuano,False,Ikwuano,Ikwuano
+Abia,Arochukwu,Abia North,Arochukwu/Ohafia,False,Arochukwu,Arochukwu
+Abia,Ohafia,Abia North,Arochukwu/Ohafia,False,Ohafia,Ohafia
+Abia,Bende,Abia North,Bende,False,Bende,Bende
+Abia,Isuikwuato,Abia North,Isuikwuato/Umunneochi,False,Isuikwuato,Isuikwuato
+Abia,Umunneochi,Abia North,Isuikwuato/Umunneochi,False,Umunneochi,Umunneochi
+Abia,Aba North,Abia South,Aba North/Aba South,False,Aba North,Aba North
+Abia,Aba South,Abia South,Aba North/Aba South,False,Aba South,Aba South
+Abia,Ukwa East,Abia South,Ukwa East/Ukwa West,False,Ukwa East,Ukwa East
+Abia,Ukwa West,Abia South,Ukwa East/Ukwa West,False,Ukwa West,Ukwa West
+Adamawa,Fufore,Adamawa Central,Fufore/Song,False,Fufore,Fufore
+Adamawa,Song,Adamawa Central,Fufore/Song,False,Song,Song
+Adamawa,Hong,Adamawa Central,Hong/Gombi,False,Hong,Hong
+Adamawa,Gombi,Adamawa Central,Hong/Gombi,False,Gombi,Gombi
+Adamawa,Yola North,Adamawa Central,Yola North/Yola South/Girei,False,Yola North,Yola North
+Adamawa,Yola South,Adamawa Central,Yola North/Yola South/Girei,False,Yola South,Yola South
+Adamawa,Girei,Adamawa Central,Yola North/Yola South/Girei,False,Girei,Girei
+Adamawa,Michika,Adamawa North,Michika/Madagali,False,Michika,Michika
+Adamawa,Madagali,Adamawa North,Michika/Madagali,False,Madagali,Madagali
+Adamawa,Mubi North,Adamawa North,Mubi North/Mubi South/Maiha,False,Mubi North,Mubi North
+Adamawa,Mubi South,Adamawa North,Mubi North/Mubi South/Maiha,False,Mubi South,Mubi South
+Adamawa,Maiha,Adamawa North,Mubi North/Mubi South/Maiha,False,Maiha,Maiha
+Adamawa,Demsa,Adamawa South,Demsa/Numan/Lamurde,False,Demsa,Demsa
+Adamawa,Numan,Adamawa South,Demsa/Numan/Lamurde,False,Numan,Numan
+Adamawa,Lamurde,Adamawa South,Demsa/Numan/Lamurde,False,Lamurde,Lamurde
+Adamawa,Guyuk,Adamawa South,Guyuk/Shelleng,False,Guyuk,Guyuk
+Adamawa,Shelleng,Adamawa South,Guyuk/Shelleng,False,Shelleng,Shelleng
+Adamawa,Jada,Adamawa South,Jada/Ganye/Mayo Belwa/Toungo,False,Jada,Jada
+Adamawa,Ganye,Adamawa South,Jada/Ganye/Mayo Belwa/Toungo,False,Ganye,Ganye
+Adamawa,Mayo Belwa,Adamawa South,Jada/Ganye/Mayo Belwa/Toungo,False,Mayo Belwa,Mayo Belwa
+Adamawa,Toungo,Adamawa South,Jada/Ganye/Mayo Belwa/Toungo,False,Toungo,Toungo
+Akwa Ibom,Etinan,Akwa Ibom North East,Etinan/Nsit Ibom/Nsit ubium,False,Etinan,Etinan
+Akwa Ibom,Nsit Ibom,Akwa Ibom North East,Etinan/Nsit Ibom/Nsit ubium,False,Nsit Ibom,Nsit Ibom
+Akwa Ibom,Nsit ubium,Akwa Ibom North East,Etinan/Nsit Ibom/Nsit ubium,False,Nsit ubium,Nsit ubium
+Akwa Ibom,Itu,Akwa Ibom North East,Itu/Ibiono Ibom,False,Itu,Itu
+Akwa Ibom,Ibiono Ibom,Akwa Ibom North East,Itu/Ibiono Ibom,False,Ibiono Ibom,Ibiono Ibom
+Akwa Ibom,Uyo,Akwa Ibom North East,Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan,False,Uyo,Uyo
+Akwa Ibom,Uruan,Akwa Ibom North East,Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan,False,Uruan,Uruan
+Akwa Ibom,Nsit Atai,Akwa Ibom North East,Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan,False,Nsit Atai,Nsit Atai
+Akwa Ibom,Ibesikpo Asutan,Akwa Ibom North East,Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan,False,Ibesikpo Asutan,Ibesikpo Asutan
+Akwa Ibom,Abak,Akwa Ibom North West,Abak/Etim Ekpo/Ika,False,Abak,Abak
+Akwa Ibom,Etim Ekpo,Akwa Ibom North West,Abak/Etim Ekpo/Ika,False,Etim Ekpo,Etim Ekpo
+Akwa Ibom,Ika,Akwa Ibom North West,Abak/Etim Ekpo/Ika,False,Ika,Ika
+Akwa Ibom,Ikono,Akwa Ibom North West,Ikono/Ini,False,Ikono,Ikono
+Akwa Ibom,Ini,Akwa Ibom North West,Ikono/Ini,False,Ini,Ini
+Akwa Ibom,Ikot Ekpene,Akwa Ibom North West,Ikot Ekpene/Essien Udim/ Obot Akara,False,Ikot Ekpene,Ikot Ekpene
+Akwa Ibom,Essien Udim,Akwa Ibom North West,Ikot Ekpene/Essien Udim/ Obot Akara,False,Essien Udim,Essien Udim
+Akwa Ibom,Obot Akara,Akwa Ibom North West,Ikot Ekpene/Essien Udim/ Obot Akara,False,Obot Akara,Obot Akara
+Akwa Ibom,Ukanafun,Akwa Ibom North West,Ukanafun/Oruk Anam,False,Ukanafun,Ukanafun
+Akwa Ibom,Oruk Anam,Akwa Ibom North West,Ukanafun/Oruk Anam,False,Oruk Anam,Oruk Anam
+Akwa Ibom,Eket,Akwa Ibom South,Eket/Onna/Esit Eket/Ibeno,False,Eket,Eket
+Akwa Ibom,Onna,Akwa Ibom South,Eket/Onna/Esit Eket/Ibeno,False,Onna,Onna
+Akwa Ibom,Esit Eket,Akwa Ibom South,Eket/Onna/Esit Eket/Ibeno,False,Esit Eket,Esit Eket
+Akwa Ibom,Ibeno,Akwa Ibom South,Eket/Onna/Esit Eket/Ibeno,False,Ibeno,Ibeno
+Akwa Ibom,Ikot Abasi,Akwa Ibom South,Ikot Abasi/Mkpat Enin/Eastern Obolo,False,Ikot Abasi,Ikot Abasi
+Akwa Ibom,Mkpat Enin,Akwa Ibom South,Ikot Abasi/Mkpat Enin/Eastern Obolo,False,Mkpat Enin,Mkpat Enin
+Akwa Ibom,Eastern Obolo,Akwa Ibom South,Ikot Abasi/Mkpat Enin/Eastern Obolo,False,Eastern Obolo,Eastern Obolo
+Akwa Ibom,Oron,Akwa Ibom South,Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko,False,Oron,Oron
+Akwa Ibom,Mbo,Akwa Ibom South,Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko,False,Mbo,Mbo
+Akwa Ibom,Okobo,Akwa Ibom South,Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko,False,Okobo,Okobo
+Akwa Ibom,Udung Uko,Akwa Ibom South,Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko,False,Udung Uko,Udung Uko
+Akwa Ibom,Urue Offong,Akwa Ibom South,Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko,False,Urue Offong,Urue Offong
+Akwa Ibom,Oruko,Akwa Ibom South,Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko,False,Oruko,Oruko
+Anambra,Awka North,Anambra Central,Awka North/South,False,Awka North,Awka North
+Anambra,South,Anambra Central,Awka North/South,False,South,South
+Anambra,Idemili North,Anambra Central,Idemili North/South,False,Idemili North,Idemili North
+Anambra,South,Anambra Central,Idemili North/South,False,South,South
+Anambra,Njikoka,Anambra Central,Njikoka/Dunukofia/Anaocha,False,Njikoka,Njikoka
+Anambra,Dunukofia,Anambra Central,Njikoka/Dunukofia/Anaocha,False,Dunukofia,Dunukofia
+Anambra,Anaocha,Anambra Central,Njikoka/Dunukofia/Anaocha,False,Anaocha,Anaocha
+Anambra,Anambra East,Anambra North,Anambra East/West,False,Anambra East,Anambra East
+Anambra,West,Anambra North,Anambra East/West,False,West,West
+Anambra,Ogbaru,Anambra North,Ogbaru,False,Ogbaru,Ogbaru
+Anambra,Onitsha North,Anambra North,Onitsha North/South,False,Onitsha North,Onitsha North
+Anambra,South,Anambra North,Onitsha North/South,False,South,South
+Anambra,Oyi,Anambra North,Oyi/Ayamelum,False,Oyi,Oyi
+Anambra,Ayamelum,Anambra North,Oyi/Ayamelum,False,Ayamelum,Ayamelum
+Anambra,Aguata,Anambra South,Aguata,False,Aguata,Aguata
+Anambra,Ihiala,Anambra South,Ihiala,False,Ihiala,Ihiala
+Anambra,Nnewi North,Anambra South,Nnewi North/South/Ekwusigo,False,Nnewi North,Nnewi North
+Anambra,South,Anambra South,Nnewi North/South/Ekwusigo,False,South,South
+Anambra,Ekwusigo,Anambra South,Nnewi North/South/Ekwusigo,False,Ekwusigo,Ekwusigo
+Anambra,Orumba North,Anambra South,Orumba North/South,False,Orumba North,Orumba North
+Anambra,South,Anambra South,Orumba North/South,False,South,South
+Bauchi,Darazo,Bauchi Central,Darazo/Gunjuwa,False,Darazo,Darazo
+Bauchi,Gunjuwa,Bauchi Central,Darazo/Gunjuwa,False,Gunjuwa,Gunjuwa
+Bauchi,Misau,Bauchi Central,Misau/Dambam,False,Misau,Misau
+Bauchi,Dambam,Bauchi Central,Misau/Dambam,False,Dambam,Dambam
+Bauchi,Ningi,Bauchi Central,Ningi/Warji,False,Ningi,Ningi
+Bauchi,Warji,Bauchi Central,Ningi/Warji,False,Warji,Warji
+Bauchi,Gamawa,Bauchi North,Gamawa,False,Gamawa,Gamawa
+Bauchi,Jama'are,Bauchi North,Jama'are/Itas-Gadau,False,Jama'are,Jama'are
+Bauchi,Itas-Gadau,Bauchi North,Jama'are/Itas-Gadau,False,Itas-Gadau,Itas-Gadau
+Bauchi,Katagum,Bauchi North,Katagum,False,Katagum,Katagum
+Bauchi,Shira,Bauchi North,Shira/Giade,False,Shira,Shira
+Bauchi,Giade,Bauchi North,Shira/Giade,False,Giade,Giade
+Bauchi,Zaki,Bauchi North,Zaki,False,Zaki,Zaki
+Bauchi,Alkaleri,Bauchi South,Alkaleri/Kirfi,False,Alkaleri,Alkaleri
+Bauchi,Kirfi,Bauchi South,Alkaleri/Kirfi,False,Kirfi,Kirfi
+Bauchi,Bauchi,Bauchi South,Bauchi,False,Bauchi,Bauchi
+Bauchi,Bogoro,Bauchi South,Bogoro/Dass/Tafawa Balewa,False,Bogoro,Bogoro
+Bauchi,Dass,Bauchi South,Bogoro/Dass/Tafawa Balewa,False,Dass,Dass
+Bauchi,Tafawa Balewa,Bauchi South,Bogoro/Dass/Tafawa Balewa,False,Tafawa Balewa,Tafawa Balewa
+Bauchi,Toro,Bauchi South,Toro,False,Toro,Toro
+Benue,Katsina-Ala,Benue North East,Katsina-Ala/Ukum/Logo,False,Katsina-Ala,Katsina-Ala
+Benue,Ukum,Benue North East,Katsina-Ala/Ukum/Logo,False,Ukum,Ukum
+Benue,Logo,Benue North East,Katsina-Ala/Ukum/Logo,False,Logo,Logo
+Benue,Konshisha,Benue North East,Konshisha/Vandeikya,False,Konshisha,Konshisha
+Benue,Vandeikya,Benue North East,Konshisha/Vandeikya,False,Vandeikya,Vandeikya
+Benue,Kwande,Benue North East,Kwande/Ushongo,False,Kwande,Kwande
+Benue,Ushongo,Benue North East,Kwande/Ushongo,False,Ushongo,Ushongo
+Benue,Buruku,Benue North West,Buruku,False,Buruku,Buruku
+Benue,Gboko,Benue North West,Gboko/Tarka,False,Gboko,Gboko
+Benue,Tarka,Benue North West,Gboko/Tarka,False,Tarka,Tarka
+Benue,Guma,Benue North West,Guma/Makurdi,False,Guma,Guma
+Benue,Makurdi,Benue North West,Guma/Makurdi,False,Makurdi,Makurdi
+Benue,Gwer East,Benue North West,Gwer East/Gwer West,False,Gwer East,Gwer East
+Benue,Gwer West,Benue North West,Gwer East/Gwer West,False,Gwer West,Gwer West
+Benue,Ado,Benue South,Ado/Obadigbo/Okpokwu,False,Ado,Ado
+Benue,Obadigbo,Benue South,Ado/Obadigbo/Okpokwu,False,Obadigbo,Obadigbo
+Benue,Okpokwu,Benue South,Ado/Obadigbo/Okpokwu,False,Okpokwu,Okpokwu
+Benue,Apa,Benue South,Apa/Agatu,False,Apa,Apa
+Benue,Agatu,Benue South,Apa/Agatu,False,Agatu,Agatu
+Benue,Oju,Benue South,Oju/Obi,False,Oju,Oju
+Benue,Obi,Benue South,Oju/Obi,False,Obi,Obi
+Benue,Otukpo,Benue South,Otukpo/Ohimini,False,Otukpo,Otukpo
+Benue,Ohimini,Benue South,Otukpo/Ohimini,False,Ohimini,Ohimini
+Borno,Bama,Borno Central,Bama/Ngala/Kala-Balge,False,Bama,Bama
+Borno,Ngala,Borno Central,Bama/Ngala/Kala-Balge,False,Ngala,Ngala
+Borno,Kala-Balge,Borno Central,Bama/Ngala/Kala-Balge,False,Kala-Balge,Kala-Balge
+Borno,Dikwa,Borno Central,Dikwa/Mafa/Konduga,False,Dikwa,Dikwa
+Borno,Mafa,Borno Central,Dikwa/Mafa/Konduga,False,Mafa,Mafa
+Borno,Konduga,Borno Central,Dikwa/Mafa/Konduga,False,Konduga,Konduga
+Borno,Jere,Borno Central,Jere,False,Jere,Jere
+Borno,Maiduguri Metropolitan,Borno Central,Maiduguri Metropolitan,False,Maiduguri Metropolitan,Maiduguri Metropolitan
+Borno,Kaga,Borno North,Kaga/Gubio/Magumeri,False,Kaga,Kaga
+Borno,Gubio,Borno North,Kaga/Gubio/Magumeri,False,Gubio,Gubio
+Borno,Magumeri,Borno North,Kaga/Gubio/Magumeri,False,Magumeri,Magumeri
+Borno,Kukawa,Borno North,Kukawa/Mobbar/Abadam/Guzamali,False,Kukawa,Kukawa
+Borno,Mobbar,Borno North,Kukawa/Mobbar/Abadam/Guzamali,False,Mobbar,Mobbar
+Borno,Abadam,Borno North,Kukawa/Mobbar/Abadam/Guzamali,False,Abadam,Abadam
+Borno,Guzamali,Borno North,Kukawa/Mobbar/Abadam/Guzamali,False,Guzamali,Guzamali
+Borno,Monguno,Borno North,Monguno/Nganzai/Marte,False,Monguno,Monguno
+Borno,Nganzai,Borno North,Monguno/Nganzai/Marte,False,Nganzai,Nganzai
+Borno,Marte,Borno North,Monguno/Nganzai/Marte,False,Marte,Marte
+Borno,Askira-Uba,Borno South,Askira-Uba/Hawul,False,Askira-Uba,Askira-Uba
+Borno,Hawul,Borno South,Askira-Uba/Hawul,False,Hawul,Hawul
+Borno,Biu,Borno South,Biu/Kwaya-Kusar Shani/Bayo,False,Biu,Biu
+Borno,Kwaya-Kusar Shani,Borno South,Biu/Kwaya-Kusar Shani/Bayo,False,Kwaya-Kusar Shani,Kwaya-Kusar Shani
+Borno,Bayo,Borno South,Biu/Kwaya-Kusar Shani/Bayo,False,Bayo,Bayo
+Borno,Damboa,Borno South,Damboa/Gwoza/Chibok,False,Damboa,Damboa
+Borno,Gwoza,Borno South,Damboa/Gwoza/Chibok,False,Gwoza,Gwoza
+Borno,Chibok,Borno South,Damboa/Gwoza/Chibok,False,Chibok,Chibok
+Cross River,Boki,Cross River Central,Boki/Ikom,False,Boki,Boki
+Cross River,Ikom,Cross River Central,Boki/Ikom,False,Ikom,Ikom
+Cross River,Obubra,Cross River Central,Obubra/Etung,False,Obubra,Obubra
+Cross River,Etung,Cross River Central,Obubra/Etung,False,Etung,Etung
+Cross River,Yakurr,Cross River Central,Yakurr/Abi,False,Yakurr,Yakurr
+Cross River,Abi,Cross River Central,Yakurr/Abi,False,Abi,Abi
+Cross River,Obanliku,Cross River North,Obanliku/Obudu/Bekwarra,False,Obanliku,Obanliku
+Cross River,Obudu,Cross River North,Obanliku/Obudu/Bekwarra,False,Obudu,Obudu
+Cross River,Bekwarra,Cross River North,Obanliku/Obudu/Bekwarra,False,Bekwarra,Bekwarra
+Cross River,Ogoja,Cross River North,Ogoja/Yala,False,Ogoja,Ogoja
+Cross River,Yala,Cross River North,Ogoja/Yala,False,Yala,Yala
+Cross River,Akamkpa,Cross River South,Akamkpa/Biase,False,Akamkpa,Akamkpa
+Cross River,Biase,Cross River South,Akamkpa/Biase,False,Biase,Biase
+Cross River,Calabar Municipal,Cross River South,Calabar Municipal/Odukpani,False,Calabar Municipal,Calabar Municipal
+Cross River,Odukpani,Cross River South,Calabar Municipal/Odukpani,False,Odukpani,Odukpani
+Cross River,Calabar South,Cross River South,Calabar South/Akpabuyo/Bakassi,False,Calabar South,Calabar South
+Cross River,Akpabuyo,Cross River South,Calabar South/Akpabuyo/Bakassi,False,Akpabuyo,Akpabuyo
+Cross River,Bakassi,Cross River South,Calabar South/Akpabuyo/Bakassi,False,Bakassi,Bakassi
+Ebonyi,Ezza North,Ebonyi Central,Ezza North/Ishielu,False,Ezza North,Ezza North
+Ebonyi,Ishielu,Ebonyi Central,Ezza North/Ishielu,False,Ishielu,Ishielu
+Ebonyi,Ezza South,Ebonyi Central,Ezza South/Ikwo,False,Ezza South,Ezza South
+Ebonyi,Ikwo,Ebonyi Central,Ezza South/Ikwo,False,Ikwo,Ikwo
+Ebonyi,Abakaliki,Ebonyi North,Abakaliki/Izzi,False,Abakaliki,Abakaliki
+Ebonyi,Izzi,Ebonyi North,Abakaliki/Izzi,False,Izzi,Izzi
+Ebonyi,Ebonyi,Ebonyi North,Ebonyi/Ohaukwu,False,Ebonyi,Ebonyi
+Ebonyi,Ohaukwu,Ebonyi North,Ebonyi/Ohaukwu,False,Ohaukwu,Ohaukwu
+Ebonyi,Afikpo North,Ebonyi South,Afikpo North/Afikpo South,False,Afikpo North,Afikpo North
+Ebonyi,Afikpo South,Ebonyi South,Afikpo North/Afikpo South,False,Afikpo South,Afikpo South
+Ebonyi,Ivo-Ohaozara,Ebonyi South,Ivo-Ohaozara/Onicha,False,Ivo-Ohaozara,Ivo-Ohaozara
+Ebonyi,Onicha,Ebonyi South,Ivo-Ohaozara/Onicha,False,Onicha,Onicha
+Ekiti,Ado Ekiti,Ekiti Central,Ado Ekiti/Irepodun/Ifelodun,False,Ado Ekiti,Ado Ekiti
+Ekiti,Irepodun,Ekiti Central,Ado Ekiti/Irepodun/Ifelodun,False,Irepodun,Irepodun
+Ekiti,Ifelodun,Ekiti Central,Ado Ekiti/Irepodun/Ifelodun,False,Ifelodun,Ifelodun
+Ekiti,Ijero,Ekiti Central,Ijero/Ekiti West/Efon,False,Ijero,Ijero
+Ekiti,Ekiti West,Ekiti Central,Ijero/Ekiti West/Efon,False,Ekiti West,Ekiti West
+Ekiti,Efon,Ekiti Central,Ijero/Ekiti West/Efon,False,Efon,Efon
+Ekiti,Ido,Ekiti North,Ido/Osi Moba/Ilejeme,False,Ido,Ido
+Ekiti,Osi Moba,Ekiti North,Ido/Osi Moba/Ilejeme,False,Osi Moba,Osi Moba
+Ekiti,Ilejeme,Ekiti North,Ido/Osi Moba/Ilejeme,False,Ilejeme,Ilejeme
+Ekiti,Ikole,Ekiti North,Ikole/Oye,False,Ikole,Ikole
+Ekiti,Oye,Ekiti North,Ikole/Oye,False,Oye,Oye
+Ekiti,Ekiti South West,Ekiti South,Ekiti South West/Ikere/Orun/Ise,False,Ekiti South West,Ekiti South West
+Ekiti,Ikere,Ekiti South,Ekiti South West/Ikere/Orun/Ise,False,Ikere,Ikere
+Ekiti,Orun,Ekiti South,Ekiti South West/Ikere/Orun/Ise,False,Orun,Orun
+Ekiti,Ise,Ekiti South,Ekiti South West/Ikere/Orun/Ise,False,Ise,Ise
+Ekiti,Emure,Ekiti South,Emure/Gbonyin/Ekiti East,False,Emure,Emure
+Ekiti,Gbonyin,Ekiti South,Emure/Gbonyin/Ekiti East,False,Gbonyin,Gbonyin
+Ekiti,Ekiti East,Ekiti South,Emure/Gbonyin/Ekiti East,False,Ekiti East,Ekiti East
+Enugu,Enugu East,Enugu East,Enugu East/Isi Uzo,False,Enugu East,Enugu East
+Enugu,Isi Uzo,Enugu East,Enugu East/Isi Uzo,False,Isi Uzo,Isi Uzo
+Enugu,Enugu North,Enugu East,Enugu North/Enugu South,False,Enugu North,Enugu North
+Enugu,Enugu South,Enugu East,Enugu North/Enugu South,False,Enugu South,Enugu South
+Enugu,Nkanu East,Enugu East,Nkanu East/Nkanu West,False,Nkanu East,Nkanu East
+Enugu,Nkanu West,Enugu East,Nkanu East/Nkanu West,False,Nkanu West,Nkanu West
+Enugu,Igbo-Etiti,Enugu North,Igbo-Etiti/Uzo-Uwani,False,Igbo-Etiti,Igbo-Etiti
+Enugu,Uzo-Uwani,Enugu North,Igbo-Etiti/Uzo-Uwani,False,Uzo-Uwani,Uzo-Uwani
+Enugu,Igbo-Eze North,Enugu North,Igbo-Eze North/Udenu,False,Igbo-Eze North,Igbo-Eze North
+Enugu,Udenu,Enugu North,Igbo-Eze North/Udenu,False,Udenu,Udenu
+Enugu,Nsukka,Enugu North,Nsukka/Igbo-Eze South,False,Nsukka,Nsukka
+Enugu,Igbo-Eze South,Enugu North,Nsukka/Igbo-Eze South,False,Igbo-Eze South,Igbo-Eze South
+Enugu,Aninri,Enugu West,Aninri/Awgu/Oji River,False,Aninri,Aninri
+Enugu,Awgu,Enugu West,Aninri/Awgu/Oji River,False,Awgu,Awgu
+Enugu,Oji River,Enugu West,Aninri/Awgu/Oji River,False,Oji River,Oji River
+Enugu,Ezeagu,Enugu West,Ezeagu/Udi,False,Ezeagu,Ezeagu
+Enugu,Udi,Enugu West,Ezeagu/Udi,False,Udi,Udi
+Federal Capital Territory,Abaji,FCT,Abaji/Kuje/Kwali Gwagwalada,False,Abaji,Abaji
+Federal Capital Territory,Kuje,FCT,Abaji/Kuje/Kwali Gwagwalada,False,Kuje,Kuje
+Federal Capital Territory,Kwali Gwagwalada,FCT,Abaji/Kuje/Kwali Gwagwalada,False,Kwali Gwagwalada,Kwali Gwagwalada
+Federal Capital Territory,Abuja Municipal,FCT,Abuja Municipal/Bwar,False,Abuja Municipal,Abuja Municipal
+Federal Capital Territory,Bwar,FCT,Abuja Municipal/Bwar,False,Bwar,Bwar
+Gombe,Akko,Gombe Central,Akko,False,Akko,Akko
+Gombe,Yamaltu,Gombe Central,Yamaltu/Deba,False,Yamaltu,Yamaltu
+Gombe,Deba,Gombe Central,Yamaltu/Deba,False,Deba,Deba
+Gombe,Dukku,Gombe North,Dukku/Nafada,False,Dukku,Dukku
+Gombe,Nafada,Gombe North,Dukku/Nafada,False,Nafada,Nafada
+Gombe,Gombe,Gombe North,Gombe/Kwami/Funakaye,False,Gombe,Gombe
+Gombe,Kwami,Gombe North,Gombe/Kwami/Funakaye,False,Kwami,Kwami
+Gombe,Funakaye,Gombe North,Gombe/Kwami/Funakaye,False,Funakaye,Funakaye
+Gombe,Balanga,Gombe South,Balanga/Billiri,False,Balanga,Balanga
+Gombe,Billiri,Gombe South,Balanga/Billiri,False,Billiri,Billiri
+Gombe,Kaltungo,Gombe South,Kaltungo/Shongom,False,Kaltungo,Kaltungo
+Gombe,Shongom,Gombe South,Kaltungo/Shongom,False,Shongom,Shongom
+Imo,Aboh Mbaise,Imo East,Aboh Mbaise/Ngor Okpala,False,Aboh Mbaise,Aboh Mbaise
+Imo,Ngor Okpala,Imo East,Aboh Mbaise/Ngor Okpala,False,Ngor Okpala,Ngor Okpala
+Imo,Ahiazu Mbaise,Imo East,Ahiazu Mbaise/Ezinihitte,False,Ahiazu Mbaise,Ahiazu Mbaise
+Imo,Ezinihitte,Imo East,Ahiazu Mbaise/Ezinihitte,False,Ezinihitte,Ezinihitte
+Imo,Ikeduru,Imo East,Ikeduru/Mbaitoli,False,Ikeduru,Ikeduru
+Imo,Mbaitoli,Imo East,Ikeduru/Mbaitoli,False,Mbaitoli,Mbaitoli
+Imo,Owerri Municipal,Imo East,Owerri Municipal/Owerri North/Owerri West,False,Owerri Municipal,Owerri Municipal
+Imo,Owerri North,Imo East,Owerri Municipal/Owerri North/Owerri West,False,Owerri North,Owerri North
+Imo,Owerri West,Imo East,Owerri Municipal/Owerri North/Owerri West,False,Owerri West,Owerri West
+Imo,Ehime Mbano,Imo North,Ehime Mbano/Ihite-Uboma/Obowo,False,Ehime Mbano,Ehime Mbano
+Imo,Ihite-Uboma,Imo North,Ehime Mbano/Ihite-Uboma/Obowo,False,Ihite-Uboma,Ihite-Uboma
+Imo,Obowo,Imo North,Ehime Mbano/Ihite-Uboma/Obowo,False,Obowo,Obowo
+Imo,Isiala Mbano,Imo North,Isiala Mbano/Okigwe/Onuimo,False,Isiala Mbano,Isiala Mbano
+Imo,Okigwe,Imo North,Isiala Mbano/Okigwe/Onuimo,False,Okigwe,Okigwe
+Imo,Onuimo,Imo North,Isiala Mbano/Okigwe/Onuimo,False,Onuimo,Onuimo
+Imo,Ideato North,Imo West,Ideato North/Ideato South,False,Ideato North,Ideato North
+Imo,Ideato South,Imo West,Ideato North/Ideato South,False,Ideato South,Ideato South
+Imo,Isu,Imo West,Isu/Njaba/Nkwerre/Nwangele,False,Isu,Isu
+Imo,Njaba,Imo West,Isu/Njaba/Nkwerre/Nwangele,False,Njaba,Njaba
+Imo,Nkwerre,Imo West,Isu/Njaba/Nkwerre/Nwangele,False,Nkwerre,Nkwerre
+Imo,Nwangele,Imo West,Isu/Njaba/Nkwerre/Nwangele,False,Nwangele,Nwangele
+Imo,Oguta,Imo West,Oguta/Ohaji-Egbema/Oru West,False,Oguta,Oguta
+Imo,Ohaji-Egbema,Imo West,Oguta/Ohaji-Egbema/Oru West,False,Ohaji-Egbema,Ohaji-Egbema
+Imo,Oru West,Imo West,Oguta/Ohaji-Egbema/Oru West,False,Oru West,Oru West
+Imo,Oru East,Imo West,Oru East/Orsu/Orlu,False,Oru East,Oru East
+Imo,Orsu,Imo West,Oru East/Orsu/Orlu,False,Orsu,Orsu
+Imo,Orlu,Imo West,Oru East/Orsu/Orlu,False,Orlu,Orlu
+Jigawa,Hadejia,Jigawa North East,Hadejia/Kafin Hausa,False,Hadejia,Hadejia
+Jigawa,Kafin Hausa,Jigawa North East,Hadejia/Kafin Hausa,False,Kafin Hausa,Kafin Hausa
+Jigawa,Mallam Madori,Jigawa North East,Mallam Madori/Kaugama,False,Mallam Madori,Mallam Madori
+Jigawa,Kaugama,Jigawa North East,Mallam Madori/Kaugama,False,Kaugama,Kaugama
+Jigawa,Babura,Jigawa North West,Babura/Garki,False,Babura,Babura
+Jigawa,Garki,Jigawa North West,Babura/Garki,False,Garki,Garki
+Jigawa,Gumel,Jigawa North West,Gumel/Maigatari/Sule Tankarkar/Gagarawa,False,Gumel,Gumel
+Jigawa,Maigatari,Jigawa North West,Gumel/Maigatari/Sule Tankarkar/Gagarawa,False,Maigatari,Maigatari
+Jigawa,Sule Tankarkar,Jigawa North West,Gumel/Maigatari/Sule Tankarkar/Gagarawa,False,Sule Tankarkar,Sule Tankarkar
+Jigawa,Gagarawa,Jigawa North West,Gumel/Maigatari/Sule Tankarkar/Gagarawa,False,Gagarawa,Gagarawa
+Jigawa,Kazaure,Jigawa North West,Kazaure/Roni/Gwiwa/Yankwashi,False,Kazaure,Kazaure
+Jigawa,Roni,Jigawa North West,Kazaure/Roni/Gwiwa/Yankwashi,False,Roni,Roni
+Jigawa,Gwiwa,Jigawa North West,Kazaure/Roni/Gwiwa/Yankwashi,False,Gwiwa,Gwiwa
+Jigawa,Yankwashi,Jigawa North West,Kazaure/Roni/Gwiwa/Yankwashi,False,Yankwashi,Yankwashi
+Jigawa,Ringim,Jigawa North West,Ringim/Taura,False,Ringim,Ringim
+Jigawa,Taura,Jigawa North West,Ringim/Taura,False,Taura,Taura
+Jigawa,Birnin Kudu,Jigawa South West,Birnin Kudu/Buji,False,Birnin Kudu,Birnin Kudu
+Jigawa,Buji,Jigawa South West,Birnin Kudu/Buji,False,Buji,Buji
+Jigawa,Birniwa Guri,Jigawa South West,Birniwa Guri/Kirikasamma,False,Birniwa Guri,Birniwa Guri
+Jigawa,Kirikasamma,Jigawa South West,Birniwa Guri/Kirikasamma,False,Kirikasamma,Kirikasamma
+Jigawa,Dutse,Jigawa South West,Dutse/Kiyawa,False,Dutse,Dutse
+Jigawa,Kiyawa,Jigawa South West,Dutse/Kiyawa,False,Kiyawa,Kiyawa
+Jigawa,Gwaram,Jigawa South West,Gwaram,False,Gwaram,Gwaram
+Jigawa,Jahun,Jigawa South West,Jahun/Miga,False,Jahun,Jahun
+Jigawa,Miga,Jigawa South West,Jahun/Miga,False,Miga,Miga
+Kaduna,Birnin Gwari,Kaduna Central,Birnin Gwari/Giwa,False,Birnin Gwari,Birnin Gwari
+Kaduna,Giwa,Kaduna Central,Birnin Gwari/Giwa,False,Giwa,Giwa
+Kaduna,Chikun,Kaduna Central,Chikun/Kajuru,False,Chikun,Chikun
+Kaduna,Kajuru,Kaduna Central,Chikun/Kajuru,False,Kajuru,Kajuru
+Kaduna,Igabi,Kaduna Central,Igabi,False,Igabi,Igabi
+Kaduna,Kaduna North,Kaduna Central,Kaduna North,False,Kaduna North,Kaduna North
+Kaduna,Kaduna South,Kaduna Central,Kaduna South,False,Kaduna South,Kaduna South
+Kaduna,Ikara,Kaduna North,Ikara/Kubau,False,Ikara,Ikara
+Kaduna,Kubau,Kaduna North,Ikara/Kubau,False,Kubau,Kubau
+Kaduna,Lere,Kaduna North,Lere,False,Lere,Lere
+Kaduna,Makarfi,Kaduna North,Makarfi/Kudan,False,Makarfi,Makarfi
+Kaduna,Kudan,Kaduna North,Makarfi/Kudan,False,Kudan,Kudan
+Kaduna,Sabon Gari,Kaduna North,Sabon Gari,False,Sabon Gari,Sabon Gari
+Kaduna,Soba,Kaduna North,Soba,False,Soba,Soba
+Kaduna,Zaria,Kaduna North,Zaria,False,Zaria,Zaria
+Kaduna,Jemaa,Kaduna South,Jemaa/Sanga,False,Jemaa,Jemaa
+Kaduna,Sanga,Kaduna South,Jemaa/Sanga,False,Sanga,Sanga
+Kaduna,Kachia,Kaduna South,Kachia/Kagarko,False,Kachia,Kachia
+Kaduna,Kagarko,Kaduna South,Kachia/Kagarko,False,Kagarko,Kagarko
+Kaduna,Kaura,Kaduna South,Kaura,False,Kaura,Kaura
+Kaduna,Kauru,Kaduna South,Kauru,False,Kauru,Kauru
+Kaduna,Zangon Kataf,Kaduna South,Zangon Kataf/Jaba,False,Zangon Kataf,Zangon Kataf
+Kaduna,Jaba,Kaduna South,Zangon Kataf/Jaba,False,Jaba,Jaba
+Kano,Dala,Kano Central,Dala,False,Dala,Dala
+Kano,Dawakin Kudu,Kano Central,Dawakin Kudu/Warawa,False,Dawakin Kudu,Dawakin Kudu
+Kano,Warawa,Kano Central,Dawakin Kudu/Warawa,False,Warawa,Warawa
+Kano,Fagge,Kano Central,Fagge,False,Fagge,Fagge
+Kano,Gezawa,Kano Central,Gezawa/Gabasawa,False,Gezawa,Gezawa
+Kano,Gabasawa,Kano Central,Gezawa/Gabasawa,False,Gabasawa,Gabasawa
+Kano,Gwale,Kano Central,Gwale,False,Gwale,Gwale
+Kano,Kano Municipal,Kano Central,Kano Municipal,False,Kano Municipal,Kano Municipal
+Kano,Kumbotso,Kano Central,Kumbotso,False,Kumbotso,Kumbotso
+Kano,Kura,Kano Central,Kura/Madobi/Garun Mallam,False,Kura,Kura
+Kano,Madobi,Kano Central,Kura/Madobi/Garun Mallam,False,Madobi,Madobi
+Kano,Garun Mallam,Kano Central,Kura/Madobi/Garun Mallam,False,Garun Mallam,Garun Mallam
+Kano,Minjibir,Kano Central,Minjibir/Ungogo,False,Minjibir,Minjibir
+Kano,Ungogo,Kano Central,Minjibir/Ungogo,False,Ungogo,Ungogo
+Kano,Nassarawa,Kano Central,Nassarawa,False,Nassarawa,Nassarawa
+Kano,Tarauni,Kano Central,Tarauni,False,Tarauni,Tarauni
+Kano,Bagwai,Kano North,Bagwai/Shanono,False,Bagwai,Bagwai
+Kano,Shanono,Kano North,Bagwai/Shanono,False,Shanono,Shanono
+Kano,Bichi,Kano North,Bichi,False,Bichi,Bichi
+Kano,Dambatta,Kano North,Dambatta/Makoda,False,Dambatta,Dambatta
+Kano,Makoda,Kano North,Dambatta/Makoda,False,Makoda,Makoda
+Kano,Dawakin Tofa,Kano North,Dawakin Tofa/Tofa/Rimin Gado,False,Dawakin Tofa,Dawakin Tofa
+Kano,Tofa,Kano North,Dawakin Tofa/Tofa/Rimin Gado,False,Tofa,Tofa
+Kano,Rimin Gado,Kano North,Dawakin Tofa/Tofa/Rimin Gado,False,Rimin Gado,Rimin Gado
+Kano,Gwarzo,Kano North,Gwarzo/Ikabo,False,Gwarzo,Gwarzo
+Kano,Ikabo,Kano North,Gwarzo/Ikabo,False,Ikabo,Ikabo
+Kano,Tsanyawa,Kano North,Tsanyawa/Kunchi,False,Tsanyawa,Tsanyawa
+Kano,Kunchi,Kano North,Tsanyawa/Kunchi,False,Kunchi,Kunchi
+Kano,Alabasu,Kano South,Alabasu/Gaya/Ajingi,False,Alabasu,Alabasu
+Kano,Gaya,Kano South,Alabasu/Gaya/Ajingi,False,Gaya,Gaya
+Kano,Ajingi,Kano South,Alabasu/Gaya/Ajingi,False,Ajingi,Ajingi
+Kano,Bebeji,Kano South,Bebeji/Kiru,False,Bebeji,Bebeji
+Kano,Kiru,Kano South,Bebeji/Kiru,False,Kiru,Kiru
+Kano,Doguwa,Kano South,Doguwa/Tudun Wada,False,Doguwa,Doguwa
+Kano,Tudun Wada,Kano South,Doguwa/Tudun Wada,False,Tudun Wada,Tudun Wada
+Kano,Karaye,Kano South,Karaye/Rogo,False,Karaye,Karaye
+Kano,Rogo,Kano South,Karaye/Rogo,False,Rogo,Rogo
+Kano,Rano,Kano South,Rano/Bunkure/Kibiya,False,Rano,Rano
+Kano,Bunkure,Kano South,Rano/Bunkure/Kibiya,False,Bunkure,Bunkure
+Kano,Kibiya,Kano South,Rano/Bunkure/Kibiya,False,Kibiya,Kibiya
+Kano,Sumaila,Kano South,Sumaila/Takai,False,Sumaila,Sumaila
+Kano,Takai,Kano South,Sumaila/Takai,False,Takai,Takai
+Kano,Wudil,Kano South,Wudil/Garko,False,Wudil,Wudil
+Kano,Garko,Kano South,Wudil/Garko,False,Garko,Garko
+Katsina,Batagarawa,Katsina Central,Batagarawa/Charanchi/Rimi,False,Batagarawa,Batagarawa
+Katsina,Charanchi,Katsina Central,Batagarawa/Charanchi/Rimi,False,Charanchi,Charanchi
+Katsina,Rimi,Katsina Central,Batagarawa/Charanchi/Rimi,False,Rimi,Rimi
+Katsina,Batsari,Katsina Central,Batsari/Safana/Danmusa,False,Batsari,Batsari
+Katsina,Safana,Katsina Central,Batsari/Safana/Danmusa,False,Safana,Safana
+Katsina,Danmusa,Katsina Central,Batsari/Safana/Danmusa,False,Danmusa,Danmusa
+Katsina,Dutsin-Ma,Katsina Central,Dutsin-Ma/Kurfi,False,Dutsin-Ma,Dutsin-Ma
+Katsina,Kurfi,Katsina Central,Dutsin-Ma/Kurfi,False,Kurfi,Kurfi
+Katsina,Jibia,Katsina Central,Jibia/Kaita,False,Jibia,Jibia
+Katsina,Kaita,Katsina Central,Jibia/Kaita,False,Kaita,Kaita
+Katsina,Katsina,Katsina Central,Katsina,False,Katsina,Katsina
+Katsina,Bindawa,Katsina North,Bindawa/Mani,False,Bindawa,Bindawa
+Katsina,Mani,Katsina North,Bindawa/Mani,False,Mani,Mani
+Katsina,Daura,Katsina North,Daura/Sandamu/Maiadua,False,Daura,Daura
+Katsina,Sandamu,Katsina North,Daura/Sandamu/Maiadua,False,Sandamu,Sandamu
+Katsina,Maiadua,Katsina North,Daura/Sandamu/Maiadua,False,Maiadua,Maiadua
+Katsina,Ingawa,Katsina North,Ingawa/Kankia/Kusada,False,Ingawa,Ingawa
+Katsina,Kankia,Katsina North,Ingawa/Kankia/Kusada,False,Kankia,Kankia
+Katsina,Kusada,Katsina North,Ingawa/Kankia/Kusada,False,Kusada,Kusada
+Katsina,Mashi,Katsina North,Mashi/Dutsi,False,Mashi,Mashi
+Katsina,Dutsi,Katsina North,Mashi/Dutsi,False,Dutsi,Dutsi
+Katsina,Zango,Katsina North,Zango/Baure,False,Zango,Zango
+Katsina,Baure,Katsina North,Zango/Baure,False,Baure,Baure
+Katsina,Bakori,Katsina South,Bakori/Danja,False,Bakori,Bakori
+Katsina,Danja,Katsina South,Bakori/Danja,False,Danja,Danja
+Katsina,Faskari,Katsina South,Faskari/Kankara/Sabuwa,False,Faskari,Faskari
+Katsina,Kankara,Katsina South,Faskari/Kankara/Sabuwa,False,Kankara,Kankara
+Katsina,Sabuwa,Katsina South,Faskari/Kankara/Sabuwa,False,Sabuwa,Sabuwa
+Katsina,Funtua,Katsina South,Funtua/Dandume,False,Funtua,Funtua
+Katsina,Dandume,Katsina South,Funtua/Dandume,False,Dandume,Dandume
+Katsina,Malumfashi,Katsina South,Malumfashi/Kafur,False,Malumfashi,Malumfashi
+Katsina,Kafur,Katsina South,Malumfashi/Kafur,False,Kafur,Kafur
+Katsina,Matazu,Katsina South,Matazu/Musawa,False,Matazu,Matazu
+Katsina,Musawa,Katsina South,Matazu/Musawa,False,Musawa,Musawa
+Kebbi,Aleiro,Kebbi Central,Aleiro/Gwandu/Jega,False,Aleiro,Aleiro
+Kebbi,Gwandu,Kebbi Central,Aleiro/Gwandu/Jega,False,Gwandu,Gwandu
+Kebbi,Jega,Kebbi Central,Aleiro/Gwandu/Jega,False,Jega,Jega
+Kebbi,Bunza,Kebbi Central,Bunza/Birnin Kebbi/Kalgo,False,Bunza,Bunza
+Kebbi,Birnin Kebbi,Kebbi Central,Bunza/Birnin Kebbi/Kalgo,False,Birnin Kebbi,Birnin Kebbi
+Kebbi,Kalgo,Kebbi Central,Bunza/Birnin Kebbi/Kalgo,False,Kalgo,Kalgo
+Kebbi,Koko-Besse,Kebbi Central,Koko-Besse/Maiyama,False,Koko-Besse,Koko-Besse
+Kebbi,Maiyama,Kebbi Central,Koko-Besse/Maiyama,False,Maiyama,Maiyama
+Kebbi,Arewa,Kebbi North,Arewa/Dandi,False,Arewa,Arewa
+Kebbi,Dandi,Kebbi North,Arewa/Dandi,False,Dandi,Dandi
+Kebbi,Argungu,Kebbi North,Argungu/Augie,False,Argungu,Argungu
+Kebbi,Augie,Kebbi North,Argungu/Augie,False,Augie,Augie
+Kebbi,Bagudo,Kebbi North,Bagudo/Suru,False,Bagudo,Bagudo
+Kebbi,Suru,Kebbi North,Bagudo/Suru,False,Suru,Suru
+Kebbi,Fakai,Kebbi South,Fakai/Sakaba/Wasagu/Danko/Zuru,False,Fakai,Fakai
+Kebbi,Sakaba,Kebbi South,Fakai/Sakaba/Wasagu/Danko/Zuru,False,Sakaba,Sakaba
+Kebbi,Wasagu,Kebbi South,Fakai/Sakaba/Wasagu/Danko/Zuru,False,Wasagu,Wasagu
+Kebbi,Danko,Kebbi South,Fakai/Sakaba/Wasagu/Danko/Zuru,False,Danko,Danko
+Kebbi,Zuru,Kebbi South,Fakai/Sakaba/Wasagu/Danko/Zuru,False,Zuru,Zuru
+Kebbi,Ngaski,Kebbi South,Ngaski/Shanga/Yauri,False,Ngaski,Ngaski
+Kebbi,Shanga,Kebbi South,Ngaski/Shanga/Yauri,False,Shanga,Shanga
+Kebbi,Yauri,Kebbi South,Ngaski/Shanga/Yauri,False,Yauri,Yauri
+Kogi,Adavi,Kogi Central,Adavi/Okehi,False,Adavi,Adavi
+Kogi,Okehi,Kogi Central,Adavi/Okehi,False,Okehi,Okehi
+Kogi,Ajaokuta,Kogi Central,Ajaokuta,False,Ajaokuta,Ajaokuta
+Kogi,Okene,Kogi Central,Okene/Ogori-Magogo,False,Okene,Okene
+Kogi,Ogori-Magogo,Kogi Central,Okene/Ogori-Magogo,False,Ogori-Magogo,Ogori-Magogo
+Kogi,Ankpa,Kogi East,Ankpa/Omala/Olamaboro,False,Ankpa,Ankpa
+Kogi,Omala,Kogi East,Ankpa/Omala/Olamaboro,False,Omala,Omala
+Kogi,Olamaboro,Kogi East,Ankpa/Omala/Olamaboro,False,Olamaboro,Olamaboro
+Kogi,Bassa,Kogi East,Bassa/Dekina,False,Bassa,Bassa
+Kogi,Dekina,Kogi East,Bassa/Dekina,False,Dekina,Dekina
+Kogi,Idah,Kogi East,Idah/Igalamela Odolu/Ibaji/Ofu,False,Idah,Idah
+Kogi,Igalamela Odolu,Kogi East,Idah/Igalamela Odolu/Ibaji/Ofu,False,Igalamela Odolu,Igalamela Odolu
+Kogi,Ibaji,Kogi East,Idah/Igalamela Odolu/Ibaji/Ofu,False,Ibaji,Ibaji
+Kogi,Ofu,Kogi East,Idah/Igalamela Odolu/Ibaji/Ofu,False,Ofu,Ofu
+Kogi,Ijumu,Kogi West,Ijumu/Kabba-Bunu,False,Ijumu,Ijumu
+Kogi,Kabba-Bunu,Kogi West,Ijumu/Kabba-Bunu,False,Kabba-Bunu,Kabba-Bunu
+Kogi,Lokoja,Kogi West,Lokoja/Koton Karfe,False,Lokoja,Lokoja
+Kogi,Koton Karfe,Kogi West,Lokoja/Koton Karfe,False,Koton Karfe,Koton Karfe
+Kogi,Yagba East,Kogi West,Yagba East/Yagba West/Mopamuro,False,Yagba East,Yagba East
+Kogi,Yagba West,Kogi West,Yagba East/Yagba West/Mopamuro,False,Yagba West,Yagba West
+Kogi,Mopamuro,Kogi West,Yagba East/Yagba West/Mopamuro,False,Mopamuro,Mopamuro
+Kwara,Ilorin East,Kwara Central,Ilorin East/Ilorin South,False,Ilorin East,Ilorin East
+Kwara,Ilorin South,Kwara Central,Ilorin East/Ilorin South,False,Ilorin South,Ilorin South
+Kwara,Ilorin West,Kwara Central,Ilorin West/Asa,False,Ilorin West,Ilorin West
+Kwara,Asa,Kwara Central,Ilorin West/Asa,False,Asa,Asa
+Kwara,Baruten,Kwara North,Baruten/Kaiama,False,Baruten,Baruten
+Kwara,Kaiama,Kwara North,Baruten/Kaiama,False,Kaiama,Kaiama
+Kwara,Edu,Kwara North,Edu/Moro/Pategi,False,Edu,Edu
+Kwara,Moro,Kwara North,Edu/Moro/Pategi,False,Moro,Moro
+Kwara,Pategi,Kwara North,Edu/Moro/Pategi,False,Pategi,Pategi
+Kwara,Ekiti,Kwara South,Ekiti/Isin/Irepodun/Oke-Ero,False,Ekiti,Ekiti
+Kwara,Isin,Kwara South,Ekiti/Isin/Irepodun/Oke-Ero,False,Isin,Isin
+Kwara,Irepodun,Kwara South,Ekiti/Isin/Irepodun/Oke-Ero,False,Irepodun,Irepodun
+Kwara,Oke-Ero,Kwara South,Ekiti/Isin/Irepodun/Oke-Ero,False,Oke-Ero,Oke-Ero
+Kwara,Ifelodun,Kwara South,Ifelodun/Offa/Oyun,False,Ifelodun,Ifelodun
+Kwara,Offa,Kwara South,Ifelodun/Offa/Oyun,False,Offa,Offa
+Kwara,Oyun,Kwara South,Ifelodun/Offa/Oyun,False,Oyun,Oyun
+Lagos,Apapa,Lagos Central,Apapa,False,Apapa,Apapa
+Lagos,Eti-Osa,Lagos Central,Eti-Osa,False,Eti-Osa,Eti-Osa
+Lagos,Lagos Island I,Lagos Central,Lagos Island I,True,Lagos Island,Lagos Island
+Lagos,Lagos Island II,Lagos Central,Lagos Island II,True,Lagos Island,Lagos Island
+Lagos,Lagos Mainland,Lagos Central,Lagos Mainland,False,Lagos Mainland,Lagos Mainland
+Lagos,Surulere I,Lagos Central,Surulere I,True,Surulere,Surulere
+Lagos,Surulere II,Lagos Central,Surulere II,True,Surulere,Surulere
+Lagos,Epe,Lagos East,Epe,False,Epe,Epe
+Lagos,Ibeju Lekki,Lagos East,Ibeju Lekki,False,Ibeju Lekki,Ibeju Lekki
+Lagos,Ikorodu,Lagos East,Ikorodu,False,Ikorodu,Ikorodu
+Lagos,Kosofe,Lagos East,Kosofe,False,Kosofe,Kosofe
+Lagos,Shomolu,Lagos East,Shomolu,False,Shomolu,Shomolu
+Lagos,Agege,Lagos West,Agege,False,Agege,Agege
+Lagos,Ajeromi,Lagos West,Ajeromi/Ifelodun,False,Ajeromi,Ajeromi
+Lagos,Ifelodun,Lagos West,Ajeromi/Ifelodun,False,Ifelodun,Ifelodun
+Lagos,Alimosho,Lagos West,Alimosho,False,Alimosho,Alimosho
+Lagos,Amuwo-Odofin,Lagos West,Amuwo-Odofin,False,Amuwo-Odofin,Amuwo-Odofin
+Lagos,Badagry,Lagos West,Badagry,False,Badagry,Badagry
+Lagos,Ifako-Ijaiye,Lagos West,Ifako-Ijaiye,False,Ifako-Ijaiye,Ifako-Ijaiye
+Lagos,Ikeja,Lagos West,Ikeja,False,Ikeja,Ikeja
+Lagos,Mushin I,Lagos West,Mushin I,True,Mushin,Mushin
+Lagos,Mushin II,Lagos West,Mushin II,True,Mushin,Mushin
+Lagos,Ojo,Lagos West,Ojo,False,Ojo,Ojo
+Lagos,Oshodi,Lagos West,Oshodi/Isolo I,False,Oshodi,Oshodi
+Lagos,Isolo I,Lagos West,Oshodi/Isolo I,True,Isolo,Isolo
+Lagos,Oshodi,Lagos West,Oshodi/Isolo II,False,Oshodi,Oshodi
+Lagos,Isolo II,Lagos West,Oshodi/Isolo II,True,Isolo,Isolo
+Nasarawa,Akwanga,Nasarawa North,Akwanga/Nassarawa Eggon/Wamba,False,Akwanga,Akwanga
+Nasarawa,Nassarawa Eggon,Nasarawa North,Akwanga/Nassarawa Eggon/Wamba,False,Nassarawa Eggon,Nassarawa Eggon
+Nasarawa,Wamba,Nasarawa North,Akwanga/Nassarawa Eggon/Wamba,False,Wamba,Wamba
+Nasarawa,Awe,Nasarawa South,Awe/Doma/Keana,False,Awe,Awe
+Nasarawa,Doma,Nasarawa South,Awe/Doma/Keana,False,Doma,Doma
+Nasarawa,Keana,Nasarawa South,Awe/Doma/Keana,False,Keana,Keana
+Nasarawa,Lafia,Nasarawa South,Lafia/Obi,False,Lafia,Lafia
+Nasarawa,Obi,Nasarawa South,Lafia/Obi,False,Obi,Obi
+Nasarawa,Keffi,Nasarawa West,Keffi/Karu/Kokona,False,Keffi,Keffi
+Nasarawa,Karu,Nasarawa West,Keffi/Karu/Kokona,False,Karu,Karu
+Nasarawa,Kokona,Nasarawa West,Keffi/Karu/Kokona,False,Kokona,Kokona
+Nasarawa,Nassarawa,Nasarawa West,Nassarawa/Toto,False,Nassarawa,Nassarawa
+Nasarawa,Toto,Nasarawa West,Nassarawa/Toto,False,Toto,Toto
+Niger,Booso,Niger East,Booso/Paikoro,False,Booso,Booso
+Niger,Paikoro,Niger East,Booso/Paikoro,False,Paikoro,Paikoro
+Niger,Chanchaga,Niger East,Chanchaga,False,Chanchaga,Chanchaga
+Niger,Gurara,Niger East,Gurara/Suleja/Tapa,False,Gurara,Gurara
+Niger,Suleja,Niger East,Gurara/Suleja/Tapa,False,Suleja,Suleja
+Niger,Tapa,Niger East,Gurara/Suleja/Tapa,False,Tapa,Tapa
+Niger,Shiroro,Niger East,Shiroro/Rafi/Munya,False,Shiroro,Shiroro
+Niger,Rafi,Niger East,Shiroro/Rafi/Munya,False,Rafi,Rafi
+Niger,Munya,Niger East,Shiroro/Rafi/Munya,False,Munya,Munya
+Niger,Agwara,Niger North,Agwara/Borgu,False,Agwara,Agwara
+Niger,Borgu,Niger North,Agwara/Borgu,False,Borgu,Borgu
+Niger,Kontagora,Niger North,Kontagora/Wushishi/Mariga/Mashegu,False,Kontagora,Kontagora
+Niger,Wushishi,Niger North,Kontagora/Wushishi/Mariga/Mashegu,False,Wushishi,Wushishi
+Niger,Mariga,Niger North,Kontagora/Wushishi/Mariga/Mashegu,False,Mariga,Mariga
+Niger,Mashegu,Niger North,Kontagora/Wushishi/Mariga/Mashegu,False,Mashegu,Mashegu
+Niger,Magama,Niger North,Magama/Rijau,False,Magama,Magama
+Niger,Rijau,Niger North,Magama/Rijau,False,Rijau,Rijau
+Niger,Agaie,Niger South,Agaie/Lapai,False,Agaie,Agaie
+Niger,Lapai,Niger South,Agaie/Lapai,False,Lapai,Lapai
+Niger,Bida,Niger South,Bida/Gbako/Katcha,False,Bida,Bida
+Niger,Gbako,Niger South,Bida/Gbako/Katcha,False,Gbako,Gbako
+Niger,Katcha,Niger South,Bida/Gbako/Katcha,False,Katcha,Katcha
+Niger,Lavun,Niger South,Lavun/Mokwa/Edati,False,Lavun,Lavun
+Niger,Mokwa,Niger South,Lavun/Mokwa/Edati,False,Mokwa,Mokwa
+Niger,Edati,Niger South,Lavun/Mokwa/Edati,False,Edati,Edati
+Ogun,Abeokuta North,Ogun Central,Abeokuta North/Obafemi-Owode/Odeda,False,Abeokuta North,Abeokuta North
+Ogun,Obafemi-Owode,Ogun Central,Abeokuta North/Obafemi-Owode/Odeda,False,Obafemi-Owode,Obafemi-Owode
+Ogun,Odeda,Ogun Central,Abeokuta North/Obafemi-Owode/Odeda,False,Odeda,Odeda
+Ogun,Abeokuta South,Ogun Central,Abeokuta South,False,Abeokuta South,Abeokuta South
+Ogun,Ifo,Ogun Central,Ifo/Ewekoro,False,Ifo,Ifo
+Ogun,Ewekoro,Ogun Central,Ifo/Ewekoro,False,Ewekoro,Ewekoro
+Ogun,Ijebu North,Ogun East,Ijebu North/Ijebu East/Ogun Waterside,False,Ijebu North,Ijebu North
+Ogun,Ijebu East,Ogun East,Ijebu North/Ijebu East/Ogun Waterside,False,Ijebu East,Ijebu East
+Ogun,Ogun Waterside,Ogun East,Ijebu North/Ijebu East/Ogun Waterside,False,Ogun Waterside,Ogun Waterside
+Ogun,Ijebu Ode,Ogun East,Ijebu Ode/Odogbolu/Ijebu North East,False,Ijebu Ode,Ijebu Ode
+Ogun,Odogbolu,Ogun East,Ijebu Ode/Odogbolu/Ijebu North East,False,Odogbolu,Odogbolu
+Ogun,Ijebu North East,Ogun East,Ijebu Ode/Odogbolu/Ijebu North East,False,Ijebu North East,Ijebu North East
+Ogun,Ikenne,Ogun East,Ikenne/Shagamu/Remo North,False,Ikenne,Ikenne
+Ogun,Shagamu,Ogun East,Ikenne/Shagamu/Remo North,False,Shagamu,Shagamu
+Ogun,Remo North,Ogun East,Ikenne/Shagamu/Remo North,False,Remo North,Remo North
+Ogun,Ado-Odo,Ogun West,Ado-Odo/Ota,False,Ado-Odo,Ado-Odo
+Ogun,Ota,Ogun West,Ado-Odo/Ota,False,Ota,Ota
+Ogun,Egbado North,Ogun West,Egbado North/Imeko-Afon,False,Egbado North,Egbado North
+Ogun,Imeko-Afon,Ogun West,Egbado North/Imeko-Afon,False,Imeko-Afon,Imeko-Afon
+Ogun,Egbado South,Ogun West,Egbado South/Ipokia,False,Egbado South,Egbado South
+Ogun,Ipokia,Ogun West,Egbado South/Ipokia,False,Ipokia,Ipokia
+Ondo,Akure North,Ondo Central,Akure North/Akure South,False,Akure North,Akure North
+Ondo,Akure South,Ondo Central,Akure North/Akure South,False,Akure South,Akure South
+Ondo,Idanre,Ondo Central,Idanre/Ifedore,False,Idanre,Idanre
+Ondo,Ifedore,Ondo Central,Idanre/Ifedore,False,Ifedore,Ifedore
+Ondo,Ondo East,Ondo Central,Ondo East/Ondo West,False,Ondo East,Ondo East
+Ondo,Ondo West,Ondo Central,Ondo East/Ondo West,False,Ondo West,Ondo West
+Ondo,Akoko North East,Ondo North,Akoko North East/Akoko North West,False,Akoko North East,Akoko North East
+Ondo,Akoko North West,Ondo North,Akoko North East/Akoko North West,False,Akoko North West,Akoko North West
+Ondo,Akoko South East,Ondo North,Akoko South East/Akoko South West,False,Akoko South East,Akoko South East
+Ondo,Akoko South West,Ondo North,Akoko South East/Akoko South West,False,Akoko South West,Akoko South West
+Ondo,Owo,Ondo North,Owo/Ose,False,Owo,Owo
+Ondo,Ose,Ondo North,Owo/Ose,False,Ose,Ose
+Ondo,Eseodo,Ondo South,Eseodo/Ilaje,False,Eseodo,Eseodo
+Ondo,Ilaje,Ondo South,Eseodo/Ilaje,False,Ilaje,Ilaje
+Ondo,Ileoluji,Ondo South,Ileoluji/Okeigbo/Odigbo,False,Ileoluji,Ileoluji
+Ondo,Okeigbo,Ondo South,Ileoluji/Okeigbo/Odigbo,False,Okeigbo,Okeigbo
+Ondo,Odigbo,Ondo South,Ileoluji/Okeigbo/Odigbo,False,Odigbo,Odigbo
+Ondo,Okitipupa,Ondo South,Okitipupa/Irele,False,Okitipupa,Okitipupa
+Ondo,Irele,Ondo South,Okitipupa/Irele,False,Irele,Irele
+Osun,Boluwaduro,Osun Central,Boluwaduro/Ifedayo/Ila,False,Boluwaduro,Boluwaduro
+Osun,Ifedayo,Osun Central,Boluwaduro/Ifedayo/Ila,False,Ifedayo,Ifedayo
+Osun,Ila,Osun Central,Boluwaduro/Ifedayo/Ila,False,Ila,Ila
+Osun,Irepodun,Osun Central,Irepodun/Olorunda/Osogbo/Orolu,False,Irepodun,Irepodun
+Osun,Olorunda,Osun Central,Irepodun/Olorunda/Osogbo/Orolu,False,Olorunda,Olorunda
+Osun,Osogbo,Osun Central,Irepodun/Olorunda/Osogbo/Orolu,False,Osogbo,Osogbo
+Osun,Orolu,Osun Central,Irepodun/Olorunda/Osogbo/Orolu,False,Orolu,Orolu
+Osun,Odo-Otin,Osun Central,Odo-Otin/Ifelodun/Boripe,False,Odo-Otin,Odo-Otin
+Osun,Ifelodun,Osun Central,Odo-Otin/Ifelodun/Boripe,False,Ifelodun,Ifelodun
+Osun,Boripe,Osun Central,Odo-Otin/Ifelodun/Boripe,False,Boripe,Boripe
+Osun,Atakunmosa East,Osun East,Atakunmosa East/Atakunmosa West/Ilesha East/Ilesha West,False,Atakunmosa East,Atakunmosa East
+Osun,Atakunmosa West,Osun East,Atakunmosa East/Atakunmosa West/Ilesha East/Ilesha West,False,Atakunmosa West,Atakunmosa West
+Osun,Ilesha East,Osun East,Atakunmosa East/Atakunmosa West/Ilesha East/Ilesha West,False,Ilesha East,Ilesha East
+Osun,Ilesha West,Osun East,Atakunmosa East/Atakunmosa West/Ilesha East/Ilesha West,False,Ilesha West,Ilesha West
+Osun,Ife Central,Osun East,Ife Central/Ife North/Ife South/Ife East,False,Ife Central,Ife Central
+Osun,Ife North,Osun East,Ife Central/Ife North/Ife South/Ife East,False,Ife North,Ife North
+Osun,Ife South,Osun East,Ife Central/Ife North/Ife South/Ife East,False,Ife South,Ife South
+Osun,Ife East,Osun East,Ife Central/Ife North/Ife South/Ife East,False,Ife East,Ife East
+Osun,Obokun,Osun East,Obokun/Oriade,False,Obokun,Obokun
+Osun,Oriade,Osun East,Obokun/Oriade,False,Oriade,Oriade
+Osun,Ayedaade,Osun West,Ayedaade/Irewole/Isokan,False,Ayedaade,Ayedaade
+Osun,Irewole,Osun West,Ayedaade/Irewole/Isokan,False,Irewole,Irewole
+Osun,Isokan,Osun West,Ayedaade/Irewole/Isokan,False,Isokan,Isokan
+Osun,Ayedire,Osun West,Ayedire/Iwo/Ola-Oluwa,False,Ayedire,Ayedire
+Osun,Iwo,Osun West,Ayedire/Iwo/Ola-Oluwa,False,Iwo,Iwo
+Osun,Ola-Oluwa,Osun West,Ayedire/Iwo/Ola-Oluwa,False,Ola-Oluwa,Ola-Oluwa
+Osun,Ede North,Osun West,Ede North/Ede South/Egbedore/Ejigbo,False,Ede North,Ede North
+Osun,Ede South,Osun West,Ede North/Ede South/Egbedore/Ejigbo,False,Ede South,Ede South
+Osun,Egbedore,Osun West,Ede North/Ede South/Egbedore/Ejigbo,False,Egbedore,Egbedore
+Osun,Ejigbo,Osun West,Ede North/Ede South/Egbedore/Ejigbo,False,Ejigbo,Ejigbo
+Oyo,Afijio,Oyo Central,Afijio/Atiba/Oyo East/Oyo West,False,Afijio,Afijio
+Oyo,Atiba,Oyo Central,Afijio/Atiba/Oyo East/Oyo West,False,Atiba,Atiba
+Oyo,Oyo East,Oyo Central,Afijio/Atiba/Oyo East/Oyo West,False,Oyo East,Oyo East
+Oyo,Oyo West,Oyo Central,Afijio/Atiba/Oyo East/Oyo West,False,Oyo West,Oyo West
+Oyo,Akinyele,Oyo Central,Akinyele/Lagelu,False,Akinyele,Akinyele
+Oyo,Lagelu,Oyo Central,Akinyele/Lagelu,False,Lagelu,Lagelu
+Oyo,Egbeda,Oyo Central,Egbeda/Ona-Ara,False,Egbeda,Egbeda
+Oyo,Ona-Ara,Oyo Central,Egbeda/Ona-Ara,False,Ona-Ara,Ona-Ara
+Oyo,Ogo-Oluwa,Oyo Central,Ogo-Oluwa/Surulere,False,Ogo-Oluwa,Ogo-Oluwa
+Oyo,Surulere,Oyo Central,Ogo-Oluwa/Surulere,False,Surulere,Surulere
+Oyo,Oluyole,Oyo Central,Oluyole,False,Oluyole,Oluyole
+Oyo,Atisbo,Oyo North,Atisbo/Saki East/Saki West,False,Atisbo,Atisbo
+Oyo,Saki East,Oyo North,Atisbo/Saki East/Saki West,False,Saki East,Saki East
+Oyo,Saki West,Oyo North,Atisbo/Saki East/Saki West,False,Saki West,Saki West
+Oyo,Irepo,Oyo North,Irepo/Olurunsogo/Orelope,False,Irepo,Irepo
+Oyo,Olurunsogo,Oyo North,Irepo/Olurunsogo/Orelope,False,Olurunsogo,Olurunsogo
+Oyo,Orelope,Oyo North,Irepo/Olurunsogo/Orelope,False,Orelope,Orelope
+Oyo,Iseyin,Oyo North,Iseyin/Kajola/Iwajowa/Itesiwaju,False,Iseyin,Iseyin
+Oyo,Kajola,Oyo North,Iseyin/Kajola/Iwajowa/Itesiwaju,False,Kajola,Kajola
+Oyo,Iwajowa,Oyo North,Iseyin/Kajola/Iwajowa/Itesiwaju,False,Iwajowa,Iwajowa
+Oyo,Itesiwaju,Oyo North,Iseyin/Kajola/Iwajowa/Itesiwaju,False,Itesiwaju,Itesiwaju
+Oyo,Ogbomoso North,Oyo North,Ogbomoso North/Ogbomoso South/Orire,False,Ogbomoso North,Ogbomoso North
+Oyo,Ogbomoso South,Oyo North,Ogbomoso North/Ogbomoso South/Orire,False,Ogbomoso South,Ogbomoso South
+Oyo,Orire,Oyo North,Ogbomoso North/Ogbomoso South/Orire,False,Orire,Orire
+Oyo,Ibadan North,Oyo South,Ibadan North,False,Ibadan North,Ibadan North
+Oyo,Ibadan North East,Oyo South,Ibadan North East/Ibadan South East,False,Ibadan North East,Ibadan North East
+Oyo,Ibadan South East,Oyo South,Ibadan North East/Ibadan South East,False,Ibadan South East,Ibadan South East
+Oyo,Ibadan North West,Oyo South,Ibadan North West/Ibadan South West,False,Ibadan North West,Ibadan North West
+Oyo,Ibadan South West,Oyo South,Ibadan North West/Ibadan South West,False,Ibadan South West,Ibadan South West
+Oyo,Ibarapa Central,Oyo South,Ibarapa Central/Ibarapa North,False,Ibarapa Central,Ibarapa Central
+Oyo,Ibarapa North,Oyo South,Ibarapa Central/Ibarapa North,False,Ibarapa North,Ibarapa North
+Oyo,Ibarapa East,Oyo South,Ibarapa East/Ido,False,Ibarapa East,Ibarapa East
+Oyo,Ido,Oyo South,Ibarapa East/Ido,False,Ido,Ido
+Plateau,Bokkos,Plateau Central,Bokkos/Mangu,False,Bokkos,Bokkos
+Plateau,Mangu,Plateau Central,Bokkos/Mangu,False,Mangu,Mangu
+Plateau,Kanke,Plateau Central,Kanke/Pankshin/Kanam,False,Kanke,Kanke
+Plateau,Pankshin,Plateau Central,Kanke/Pankshin/Kanam,False,Pankshin,Pankshin
+Plateau,Kanam,Plateau Central,Kanke/Pankshin/Kanam,False,Kanam,Kanam
+Plateau,Barkin Ladi,Plateau North,Barkin Ladi/Riyom,False,Barkin Ladi,Barkin Ladi
+Plateau,Riyom,Plateau North,Barkin Ladi/Riyom,False,Riyom,Riyom
+Plateau,Jos North,Plateau North,Jos North/Bassa,False,Jos North,Jos North
+Plateau,Bassa,Plateau North,Jos North/Bassa,False,Bassa,Bassa
+Plateau,Jos South,Plateau North,Jos South/Jos East,False,Jos South,Jos South
+Plateau,Jos East,Plateau North,Jos South/Jos East,False,Jos East,Jos East
+Plateau,Langtang North,Plateau South,Langtang North/Langtang South,False,Langtang North,Langtang North
+Plateau,Langtang South,Plateau South,Langtang North/Langtang South,False,Langtang South,Langtang South
+Plateau,Mikang,Plateau South,Mikang/Qua’an/Pan/Shedam,False,Mikang,Mikang
+Plateau,Qua’an,Plateau South,Mikang/Qua’an/Pan/Shedam,False,Qua’an,Qua’an
+Plateau,Pan,Plateau South,Mikang/Qua’an/Pan/Shedam,False,Pan,Pan
+Plateau,Shedam,Plateau South,Mikang/Qua’an/Pan/Shedam,False,Shedam,Shedam
+Plateau,Wase,Plateau South,Wase,False,Wase,Wase
+Rivers,Etche,Rivers East,Etche/Omuma,False,Etche,Etche
+Rivers,Omuma,Rivers East,Etche/Omuma,False,Omuma,Omuma
+Rivers,Ikwerre,Rivers East,Ikwerre/Emohua,False,Ikwerre,Ikwerre
+Rivers,Emohua,Rivers East,Ikwerre/Emohua,False,Emohua,Emohua
+Rivers,Obio,Rivers East,Obio/Akpor,False,Obio,Obio
+Rivers,Akpor,Rivers East,Obio/Akpor,False,Akpor,Akpor
+Rivers,Okrika,Rivers East,Okrika/Ogu/Bolo,False,Okrika,Okrika
+Rivers,Ogu,Rivers East,Okrika/Ogu/Bolo,False,Ogu,Ogu
+Rivers,Bolo,Rivers East,Okrika/Ogu/Bolo,False,Bolo,Bolo
+Rivers,Port Harcourt I,Rivers East,Port Harcourt I,True,Port Harcourt,Port Harcourt
+Rivers,Port Harcourt II,Rivers East,Port Harcourt II,True,Port Harcourt,Port Harcourt
+Rivers,Andoni,Rivers South East,Andoni/Opobo/Nkoro,False,Andoni,Andoni
+Rivers,Opobo,Rivers South East,Andoni/Opobo/Nkoro,False,Opobo,Opobo
+Rivers,Nkoro,Rivers South East,Andoni/Opobo/Nkoro,False,Nkoro,Nkoro
+Rivers,Eleme,Rivers South East,Eleme/Oyigbo/Tai,False,Eleme,Eleme
+Rivers,Oyigbo,Rivers South East,Eleme/Oyigbo/Tai,False,Oyigbo,Oyigbo
+Rivers,Tai,Rivers South East,Eleme/Oyigbo/Tai,False,Tai,Tai
+Rivers,Khana,Rivers South East,Khana/Gokana,False,Khana,Khana
+Rivers,Gokana,Rivers South East,Khana/Gokana,False,Gokana,Gokana
+Rivers,Abua,Rivers West,Abua/Odua/Ahoada East,False,Abua,Abua
+Rivers,Odua,Rivers West,Abua/Odua/Ahoada East,False,Odua,Odua
+Rivers,Ahoada East,Rivers West,Abua/Odua/Ahoada East,False,Ahoada East,Ahoada East
+Rivers,Ahoada West,Rivers West,Ahoada West/Ogba/Egbema/Ndoni,False,Ahoada West,Ahoada West
+Rivers,Ogba,Rivers West,Ahoada West/Ogba/Egbema/Ndoni,False,Ogba,Ogba
+Rivers,Egbema,Rivers West,Ahoada West/Ogba/Egbema/Ndoni,False,Egbema,Egbema
+Rivers,Ndoni,Rivers West,Ahoada West/Ogba/Egbema/Ndoni,False,Ndoni,Ndoni
+Rivers,Akuku Toru,Rivers West,Akuku Toru/Asari Toru,False,Akuku Toru,Akuku Toru
+Rivers,Asari Toru,Rivers West,Akuku Toru/Asari Toru,False,Asari Toru,Asari Toru
+Rivers,Degema,Rivers West,Degema/Bonny,False,Degema,Degema
+Rivers,Bonny,Rivers West,Degema/Bonny,False,Bonny,Bonny
+Sokoto,Goronyo,Sokoto East,Goronyo/Gada,False,Goronyo,Goronyo
+Sokoto,Gada,Sokoto East,Goronyo/Gada,False,Gada,Gada
+Sokoto,Illela,Sokoto East,Illela/Gwadabawa,False,Illela,Illela
+Sokoto,Gwadabawa,Sokoto East,Illela/Gwadabawa,False,Gwadabawa,Gwadabawa
+Sokoto,Isa,Sokoto East,Isa/Sabon Birni,False,Isa,Isa
+Sokoto,Sabon Birni,Sokoto East,Isa/Sabon Birni,False,Sabon Birni,Sabon Birni
+Sokoto,Wurno,Sokoto East,Wurno/Rabah,False,Wurno,Wurno
+Sokoto,Rabah,Sokoto East,Wurno/Rabah,False,Rabah,Rabah
+Sokoto,Binji,Sokoto North,Binji/Silame,False,Binji,Binji
+Sokoto,Silame,Sokoto North,Binji/Silame,False,Silame,Silame
+Sokoto,Kware,Sokoto North,Kware/Wamakko,False,Kware,Kware
+Sokoto,Wamakko,Sokoto North,Kware/Wamakko,False,Wamakko,Wamakko
+Sokoto,Sokoto North,Sokoto North,Sokoto North/Sokoto South,False,Sokoto North,Sokoto North
+Sokoto,Sokoto South,Sokoto North,Sokoto North/Sokoto South,False,Sokoto South,Sokoto South
+Sokoto,Tangaza,Sokoto North,Tangaza/Gudu,False,Tangaza,Tangaza
+Sokoto,Gudu,Sokoto North,Tangaza/Gudu,False,Gudu,Gudu
+Sokoto,Dange-Shuni,Sokoto South,Dange-Shuni/Bodinga/Tureta,False,Dange-Shuni,Dange-Shuni
+Sokoto,Bodinga,Sokoto South,Dange-Shuni/Bodinga/Tureta,False,Bodinga,Bodinga
+Sokoto,Tureta,Sokoto South,Dange-Shuni/Bodinga/Tureta,False,Tureta,Tureta
+Sokoto,Kebbe,Sokoto South,Kebbe/Tambuwal,False,Kebbe,Kebbe
+Sokoto,Tambuwal,Sokoto South,Kebbe/Tambuwal,False,Tambuwal,Tambuwal
+Sokoto,Yabo,Sokoto South,Yabo/Shagari,False,Yabo,Yabo
+Sokoto,Shagari,Sokoto South,Yabo/Shagari,False,Shagari,Shagari
+Taraba,Bali,Taraba Central,Bali/Gassol,False,Bali,Bali
+Taraba,Gassol,Taraba Central,Bali/Gassol,False,Gassol,Gassol
+Taraba,Sardauna,Taraba Central,Sardauna/Gashaka/Kurmi,False,Sardauna,Sardauna
+Taraba,Gashaka,Taraba Central,Sardauna/Gashaka/Kurmi,False,Gashaka,Gashaka
+Taraba,Kurmi,Taraba Central,Sardauna/Gashaka/Kurmi,False,Kurmi,Kurmi
+Taraba,Jalingo,Taraba North,Jalingo/Yorro/Zing,False,Jalingo,Jalingo
+Taraba,Yorro,Taraba North,Jalingo/Yorro/Zing,False,Yorro,Yorro
+Taraba,Zing,Taraba North,Jalingo/Yorro/Zing,False,Zing,Zing
+Taraba,Karim Lamido,Taraba North,Karim Lamido/Lau/Ardo-Kola,False,Karim Lamido,Karim Lamido
+Taraba,Lau,Taraba North,Karim Lamido/Lau/Ardo-Kola,False,Lau,Lau
+Taraba,Ardo-Kola,Taraba North,Karim Lamido/Lau/Ardo-Kola,False,Ardo-Kola,Ardo-Kola
+Taraba,Takuma,Taraba South,Takuma/Donga/Ussa,False,Takuma,Takuma
+Taraba,Donga,Taraba South,Takuma/Donga/Ussa,False,Donga,Donga
+Taraba,Ussa,Taraba South,Takuma/Donga/Ussa,False,Ussa,Ussa
+Taraba,Wukari,Taraba South,Wukari/Ibi,False,Wukari,Wukari
+Taraba,Ibi,Taraba South,Wukari/Ibi,False,Ibi,Ibi
+Yobe,Bursari,Yobe East,Bursari/Geidam/Yunusari,False,Bursari,Bursari
+Yobe,Geidam,Yobe East,Bursari/Geidam/Yunusari,False,Geidam,Geidam
+Yobe,Yunusari,Yobe East,Bursari/Geidam/Yunusari,False,Yunusari,Yunusari
+Yobe,Damaturu,Yobe East,Damaturu/Gujba/Gulani/Tarmuwa,False,Damaturu,Damaturu
+Yobe,Gujba,Yobe East,Damaturu/Gujba/Gulani/Tarmuwa,False,Gujba,Gujba
+Yobe,Gulani,Yobe East,Damaturu/Gujba/Gulani/Tarmuwa,False,Gulani,Gulani
+Yobe,Tarmuwa,Yobe East,Damaturu/Gujba/Gulani/Tarmuwa,False,Tarmuwa,Tarmuwa
+Yobe,Bade,Yobe North,Bade/Jakusko,False,Bade,Bade
+Yobe,Jakusko,Yobe North,Bade/Jakusko,False,Jakusko,Jakusko
+Yobe,Machina,Yobe North,Machina/Nguru/Yusufari/Karasuwa,False,Machina,Machina
+Yobe,Nguru,Yobe North,Machina/Nguru/Yusufari/Karasuwa,False,Nguru,Nguru
+Yobe,Yusufari,Yobe North,Machina/Nguru/Yusufari/Karasuwa,False,Yusufari,Yusufari
+Yobe,Karasuwa,Yobe North,Machina/Nguru/Yusufari/Karasuwa,False,Karasuwa,Karasuwa
+Yobe,Fika,Yobe South,Fika/Fune,False,Fika,Fika
+Yobe,Fune,Yobe South,Fika/Fune,False,Fune,Fune
+Yobe,Nangere,Yobe South,Nangere/Potiskum,False,Nangere,Nangere
+Yobe,Potiskum,Yobe South,Nangere/Potiskum,False,Potiskum,Potiskum
+Zamfara,Bungudu,Zamfara Central,Bungudu/Maru,False,Bungudu,Bungudu
+Zamfara,Maru,Zamfara Central,Bungudu/Maru,False,Maru,Maru
+Zamfara,Gusau,Zamfara Central,Gusau/Tsafe,False,Gusau,Gusau
+Zamfara,Tsafe,Zamfara Central,Gusau/Tsafe,False,Tsafe,Tsafe
+Zamfara,Kaura Namoda,Zamfara North,Kaura Namoda/Birnin Magaji,False,Kaura Namoda,Kaura Namoda
+Zamfara,Birnin Magaji,Zamfara North,Kaura Namoda/Birnin Magaji,False,Birnin Magaji,Birnin Magaji
+Zamfara,Shinkafi,Zamfara North,Shinkafi/Zurmi,False,Shinkafi,Shinkafi
+Zamfara,Zurmi,Zamfara North,Shinkafi/Zurmi,False,Zurmi,Zurmi
+Zamfara,Anka,Zamfara West,Anka/Talata/Mafara,False,Anka,Anka
+Zamfara,Talata,Zamfara West,Anka/Talata/Mafara,False,Talata,Talata
+Zamfara,Mafara,Zamfara West,Anka/Talata/Mafara,False,Mafara,Mafara
+Zamfara,Bakura,Zamfara West,Bakura/Maradun,False,Bakura,Bakura
+Zamfara,Maradun,Zamfara West,Bakura/Maradun,False,Maradun,Maradun
+Zamfara,Gunmi,Zamfara West,Gunmi/Bukkuyum,False,Gunmi,Gunmi
+Zamfara,Bukkuyum,Zamfara West,Gunmi/Bukkuyum,False,Bukkuyum,Bukkuyum
+Bayelsa,Brass,Bayelsa East,Brass/Nembe,False,Brass,Brass
+Bayelsa,Nembe,Bayelsa East,Brass/Nembe,False,Nembe,Nembe
+Bayelsa,Ogbia,Bayelsa East,Ogbia,False,Ogbia,Ogbia
+Bayelsa,Sagbama,Bayelsa West,Sagbama/Ekeremor,False,Sagbama,Sagbama
+Bayelsa,Ekeremor,Bayelsa West,Sagbama/Ekeremor,False,Ekeremor,Ekeremor
+Bayelsa,Southern Ijaw,Bayelsa Central,Southern Ijaw,False,Southern Ijaw,Southern Ijaw
+Bayelsa,Yenagoa,Bayelsa Central,Yenagoa/Kolokuna/Opokuma,False,Yenagoa,Yenagoa
+Bayelsa,Kolokuna,Bayelsa Central,Yenagoa/Kolokuna/Opokuma,False,Kolokuna,Kolokuna
+Bayelsa,Opokuma,Bayelsa Central,Yenagoa/Kolokuna/Opokuma,False,Opokuma,Opokuma
+Delta,Aniocha North,Delta North,Aniocha North/Aniocha South/Oshimili North/Oshimili South,False,Aniocha North,Aniocha North
+Delta,Aniocha South,Delta North,Aniocha North/Aniocha South/Oshimili North/Oshimili South,False,Aniocha South,Aniocha South
+Delta,Oshimili North,Delta North,Aniocha North/Aniocha South/Oshimili North/Oshimili South,False,Oshimili North,Oshimili North
+Delta,Oshimili South,Delta North,Aniocha North/Aniocha South/Oshimili North/Oshimili South,False,Oshimili South,Oshimili South
+Delta,Bomadi,Delta South,Bomadi/Patani,False,Bomadi,Bomadi
+Delta,Patani,Delta South,Bomadi/Patani,False,Patani,Patani
+Delta,Burutu,Delta South,Burutu,False,Burutu,Burutu
+Delta,Ethiope East,Delta Central,Ethiope East/Ethiope West,False,Ethiope East,Ethiope East
+Delta,Ethiope West,Delta Central,Ethiope East/Ethiope West,False,Ethiope West,Ethiope West
+Delta,Ika North East,Delta North,Ika North East/Ika South,False,Ika North East,Ika North East
+Delta,Ika South,Delta North,Ika North East/Ika South,False,Ika South,Ika South
+Delta,Isoko North,Delta South,Isoko North/Isoko South,False,Isoko North,Isoko North
+Delta,Isoko South,Delta South,Isoko North/Isoko South,False,Isoko South,Isoko South
+Delta,Nkokwa East,Delta North,Nkokwa East/Ndokwa West/Ukwuani,False,Nkokwa East,Nkokwa East
+Delta,Ndokwa West,Delta North,Nkokwa East/Ndokwa West/Ukwuani,False,Ndokwa West,Ndokwa West
+Delta,Ukwuani,Delta North,Nkokwa East/Ndokwa West/Ukwuani,False,Ukwuani,Ukwuani
+Delta,Okpe,Delta Central,Okpe/Sapele/Uvwie,False,Okpe,Okpe
+Delta,Sapele,Delta Central,Okpe/Sapele/Uvwie,False,Sapele,Sapele
+Delta,Uvwie,Delta Central,Okpe/Sapele/Uvwie,False,Uvwie,Uvwie
+Delta,Ughelli North,Delta Central,Ughelli North/Ughelli South/Udu,False,Ughelli North,Ughelli North
+Delta,Ughelli South,Delta Central,Ughelli North/Ughelli South/Udu,False,Ughelli South,Ughelli South
+Delta,Udu,Delta Central,Ughelli North/Ughelli South/Udu,False,Udu,Udu
+Delta,Warri North,Delta South,Warri North/Warri South/Warri South West,False,Warri North,Warri North
+Delta,Warri South,Delta South,Warri North/Warri South/Warri South West,False,Warri South,Warri South
+Delta,Warri South West,Delta South,Warri North/Warri South/Warri South West,False,Warri South West,Warri South West
+Edo,Akoko-Edo,Edo North,Akoko-Edo,False,Akoko-Edo,Akoko-Edo
+Edo,Egor,Edo South,Egor/Ikpoba-Okha,False,Egor,Egor
+Edo,Ikpoba-Okha,Edo South,Egor/Ikpoba-Okha,False,Ikpoba-Okha,Ikpoba-Okha
+Edo,Esan Central,Edo Central,Esan Central/Esan South/Igueben,False,Esan Central,Esan Central
+Edo,Esan South,Edo Central,Esan Central/Esan South/Igueben,False,Esan South,Esan South
+Edo,Igueben,Edo Central,Esan Central/Esan South/Igueben,False,Igueben,Igueben
+Edo,Esan North East,Edo Central,Esan North East/Esan South East,False,Esan North East,Esan North East
+Edo,Esan South East,Edo Central,Esan North East/Esan South East,False,Esan South East,Esan South East
+Edo,Etsako East,Edo North,Etsako East/Etsako West/Etsako Central,False,Etsako East,Etsako East
+Edo,Etsako West,Edo North,Etsako East/Etsako West/Etsako Central,False,Etsako West,Etsako West
+Edo,Etsako Central,Edo North,Etsako East/Etsako West/Etsako Central,False,Etsako Central,Etsako Central
+Edo,Oredo,Edo South,Oredo,False,Oredo,Oredo
+Edo,Orhionmwon,Edo South,Orhionmwon/Uhunmwonde,False,Orhionmwon,Orhionmwon
+Edo,Uhunmwonde,Edo South,Orhionmwon/Uhunmwonde,False,Uhunmwonde,Uhunmwonde
+Edo,Ovia North East,Edo South,Ovia North East/Ovia South West,False,Ovia North East,Ovia North East
+Edo,Ovia South West,Edo South,Ovia North East/Ovia South West,False,Ovia South West,Ovia South West
+Edo,Owan East,Edo North,Owan East/Owan West,False,Owan East,Owan East
+Edo,Owan West,Edo North,Owan East/Owan West,False,Owan West,Owan West
