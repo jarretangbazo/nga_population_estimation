@@ -10,4 +10,4 @@ https://data.humdata.org/dataset/cod-ps-nga
   - PGR are entered in the spreadsheet: `NGA_PGR_2022.xlsx`
 
 CityPopulation.de
-State and Local Government Area (LGA) population according to census results and latest population projections.
+State and Local Government Area (LGA) population according to census results and latest population projections.git rm -r --cached .
